@@ -20,4 +20,17 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 16. [Forecasting at Uber](https://eng.uber.com/forecasting-introduction/) `Uber` `Forecast`
 17. [Amazon.com - Recommendations Item-to-Item Collaborative Filtering ](https://pdfs.semanticscholar.org/da8b/0378174bc25ed174be36a1c725787b81854d.pdf) `Amazon`
 18. [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course) `Google`
+19. [Netflix Research: Machine Learning Platform](https://youtu.be/VvTYuQPINec) `Netflix`
+20. [Netflix Research: Machine Learning](https://youtu.be/AYv0ujDc_LY) `Netflix`
+21. [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) `Airbnb`
+22. [Building a Feature Store to reduce the time to production of ML models](https://medium.com/data-for-ai/building-a-feature-store-to-reduce-the-time-to-production-of-ml-models-b7b735ff0a94) `AI/ML Platform
+23. [The great AI debate: Interpretability](https://medium.com/swlh/the-great-ai-debate-interpretability-1d139167b55) `AI Interpretability`
+24. [How To Drive a Culture of Experimentation For Effective AI/ML](https://towardsdatascience.com/how-to-build-a-culture-of-experimentation-for-effective-ai-ml-de843752dae9) `AI Experimentation`
+25. [Data science at NASA](https://towardsdatascience.com/data-science-at-nasa-dc59bb93292a) `Podcast`
+27. [Hidden Technical Debt in Machine Learning Systems (Paper) ](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Paper` `Google`
+28. [Data science is becoming software engineering](https://towardsdatascience.com/data-science-is-becoming-software-engineering-53e31314939a) `Podcast`
+29. [Stop Hiring Data Scientists](https://towardsdatascience.com/stop-hiring-data-scientists-30514028e202) `AI Team`
+30. [The ML Suprise](https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c) `Must Read`
+31. [Scaling the Wall Between Data Scientist and Data Engineer](https://medium.com/weareservian/scaling-the-wall-between-data-scientist-and-data-engineer-51b0a99da073) `AI Team`
+32. [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) `AI Team`
 
