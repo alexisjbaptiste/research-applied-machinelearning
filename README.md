@@ -3,7 +3,7 @@
 Curated papers, articles, videos, books, podcast and blogs on research/applied machine learning & quantum computing.
 
 1. [Enterprise AI/Machine Learning: Lessons Learned](https://towardsdatascience.com/enterprise-ai-machine-learning-lessons-learned-4f39ae026c5d) `AI/ML Platform`
-2. [Inside DeepMind (Video)](https://www.youtube.com/watch?v=xN1d3qHMIEQ&t=342s&ab_channel=naturevideo) `DeepMind`
+2. [Inside DeepMind (Video)](https://www.youtube.com/watch?v=xN1d3qHMIEQ&t=342s&ab_channel=naturevideo) `DeepMind` `Applied AI`
 3. [Applied Machine Learning with Google's Peter Norvig (Video)](https://youtu.be/sjspbshEgP0) `Google`
 4. [Spotify Engineering Culture (Video)](https://youtu.be/Yvfz4HGtoPc) `Spotify`
 5. [The Hype Over Quantum Computers, Explained (Video)](https://youtu.be/u1XXjWr5frE) `Quantum Computing`
