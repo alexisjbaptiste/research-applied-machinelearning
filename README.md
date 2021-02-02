@@ -27,7 +27,7 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 23. [The great AI debate: Interpretability](https://medium.com/swlh/the-great-ai-debate-interpretability-1d139167b55) `AI Interpretability`
 24. [How To Drive a Culture of Experimentation For Effective AI/ML](https://towardsdatascience.com/how-to-build-a-culture-of-experimentation-for-effective-ai-ml-de843752dae9) `AI Experimentation`
 25. [Data science at NASA](https://towardsdatascience.com/data-science-at-nasa-dc59bb93292a) `Podcast`
-27. [Hidden Technical Debt in Machine Learning Systems (Paper) ](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Paper` `Google`
+27. [Hidden Technical Debt in Machine Learning Systems (Paper) ](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Paper` `Must Read`  `Google`
 28. [Data science is becoming software engineering](https://towardsdatascience.com/data-science-is-becoming-software-engineering-53e31314939a) `Podcast`
 29. [Stop Hiring Data Scientists](https://towardsdatascience.com/stop-hiring-data-scientists-30514028e202) `AI Team`
 30. [The ML Suprise](https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c) `Must Read`
