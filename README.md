@@ -23,7 +23,7 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 19. [Netflix Research: Machine Learning Platform](https://youtu.be/VvTYuQPINec) `Netflix`
 20. [Netflix Research: Machine Learning](https://youtu.be/AYv0ujDc_LY) `Netflix`
 21. [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) `Airbnb`
-22. [Building a Feature Store to reduce the time to production of ML models](https://medium.com/data-for-ai/building-a-feature-store-to-reduce-the-time-to-production-of-ml-models-b7b735ff0a94) `AI/ML Platform
+22. [Building a Feature Store to reduce the time to production of ML models](https://medium.com/data-for-ai/building-a-feature-store-to-reduce-the-time-to-production-of-ml-models-b7b735ff0a94) `AI/ML Platform`
 23. [The great AI debate: Interpretability](https://medium.com/swlh/the-great-ai-debate-interpretability-1d139167b55) `AI Interpretability`
 24. [How To Drive a Culture of Experimentation For Effective AI/ML](https://towardsdatascience.com/how-to-build-a-culture-of-experimentation-for-effective-ai-ml-de843752dae9) `AI Experimentation`
 25. [Data science at NASA](https://towardsdatascience.com/data-science-at-nasa-dc59bb93292a) `Podcast`
