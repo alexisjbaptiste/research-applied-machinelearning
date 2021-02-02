@@ -1,6 +1,6 @@
 # applied-machinelearning
 
-From AI/ML Practioners to AI/ML Practioners
+From AI/ML Practitioners to AI/ML Practitioners
 
 Curated papers, articles, videos, books, podcast and blogs on research/applied machine learning & quantum computing.
 
