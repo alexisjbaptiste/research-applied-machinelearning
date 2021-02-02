@@ -1,4 +1,4 @@
-# applied-machinelearning
+# research-applied-machinelearning
 
 Curated papers, articles, videos, books, podcast and blogs on research/applied machine learning & quantum computing.
 
