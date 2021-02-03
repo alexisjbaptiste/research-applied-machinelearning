@@ -1,5 +1,7 @@
 # research-applied-machinelearning
 
+From AI/ML Practitioners to AI/ML Practitioners
+
 Curated papers, articles, videos, books, podcast and blogs on research/applied machine learning & quantum computing.
 
 1. [Enterprise AI/Machine Learning: Lessons Learned](https://towardsdatascience.com/enterprise-ai-machine-learning-lessons-learned-4f39ae026c5d) `AI/ML Platform`
