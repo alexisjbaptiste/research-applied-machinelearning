@@ -36,3 +36,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 31. [Scaling the Wall Between Data Scientist and Data Engineer](https://medium.com/weareservian/scaling-the-wall-between-data-scientist-and-data-engineer-51b0a99da073) `AI Team`
 32. [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f) `AI Team`
 33. [Is Your Company Too Dumb To Be Data-Driven?](https://towardsdatascience.com/is-your-company-too-dumb-to-be-data-driven-696932d597c3) `Scale`
+34. [How to Make a Cultural Transformation | Simon Sinek (Video)](https://youtu.be/N9d0NqSztWA) `Cultural Transformation`
