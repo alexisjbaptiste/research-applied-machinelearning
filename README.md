@@ -38,3 +38,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 33. [Is Your Company Too Dumb To Be Data-Driven?](https://towardsdatascience.com/is-your-company-too-dumb-to-be-data-driven-696932d597c3) `Scale`
 34. [How to Make a Cultural Transformation | Simon Sinek (Video)](https://youtu.be/N9d0NqSztWA) `Cultural Transformation`
 35. [Inside DeepMind's epic mission to solve science's trickiest problem](https://www.wired.co.uk/article/deepmind-protein-folding) `Deepmind`
+36. [How To Do Research At The MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf) `Research AI`
