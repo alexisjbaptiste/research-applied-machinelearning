@@ -39,3 +39,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 34. [How to Make a Cultural Transformation | Simon Sinek (Video)](https://youtu.be/N9d0NqSztWA) `Cultural Transformation`
 35. [Inside DeepMind's epic mission to solve science's trickiest problem](https://www.wired.co.uk/article/deepmind-protein-folding) `Deepmind`
 36. [How To Do Research At The MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf) `Research AI`
+37. [The Unreasonable Effectiveness of Data](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf) `Research AI`
