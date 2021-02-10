@@ -40,3 +40,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 35. [Inside DeepMind's epic mission to solve science's trickiest problem](https://www.wired.co.uk/article/deepmind-protein-folding) `Deepmind`
 36. [How To Do Research At The MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf) `Research AI`
 37. [The Unreasonable Effectiveness of Data](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf) `Research AI`
+38. [Florence: Lessons from a Global Innovation Hub](https://innovationmanagement.se/2017/04/24/florence-lessons-from-a-global-innovation-hub/) `Innovation`
