@@ -44,3 +44,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 39. [How to "manage" high performer & innovative teams? (Steve Jobs- Video)](https://www.youtube.com/watch?v=rQKis2Cfpeo) `Innovation` `Leadership`
 40. [Alternative Pareto/NBD model (2003)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1410&context=marketing_papers) `Research`
 41. [Hull Trading - Algorithmic Trading firm (1985)](https://en.wikipedia.org/wiki/Hull_Trading_Company) `Inspiration`
+42. [Automate This: How Algorithms Took Over Our Markets, Our Jobs, and the World](https://www.amazon.com/Automate-This-Algorithms-Markets-World/dp/1591846528/ref=sr_1_19) `Inspiration`
