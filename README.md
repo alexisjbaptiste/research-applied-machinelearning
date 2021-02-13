@@ -41,3 +41,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 36. [How To Do Research At The MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf) `Research AI`
 37. [The Unreasonable Effectiveness of Data](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf) `Research AI`
 38. [Renaissance Florence Was a Better Model for Innovation than Silicon Valley Is](https://hbr.org/2016/01/renaissance-florence-was-a-better-model-for-innovation-than-silicon-valley-is) `Innovation`
+39. [How to "manage" high performer & innovative teams? (Steve Jobs- Video)](https://www.youtube.com/watch?v=rQKis2Cfpeo) `Innovation`
