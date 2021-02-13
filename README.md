@@ -42,4 +42,4 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 37. [The Unreasonable Effectiveness of Data](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35179.pdf) `Research AI`
 38. [Renaissance Florence Was a Better Model for Innovation than Silicon Valley Is](https://hbr.org/2016/01/renaissance-florence-was-a-better-model-for-innovation-than-silicon-valley-is) `Innovation`
 39. [How to "manage" high performer & innovative teams? (Steve Jobs- Video)](https://www.youtube.com/watch?v=rQKis2Cfpeo) `Innovation` `Leadership`
-39. [Alternative Pareto/NBD model](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1410&context=marketing_papers) `Research`
+39. [Alternative Pareto/NBD model (2003)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1410&context=marketing_papers) `Research`
