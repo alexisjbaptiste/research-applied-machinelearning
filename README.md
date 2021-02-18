@@ -47,4 +47,6 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 42. [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55) `Netflix` `Recommendation` `Interleaving`
 43. [16 Startup Metrics - Andreessen Horowitz](https://a16z.com/2015/08/21/16-metrics/) `Measurement`
 44. [16 More Startup Metrics - Andreessen Horowitz](https://a16z.com/2015/09/23/16-more-metrics/) `Measurement`
+45. [Machine Learning and Alternative Data Approach to Investing](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf) `Big Data` `JP Morgan`
+46. [Artificial Intelligence and life in 2030](https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai_100_report_0831fnl.pdf) `Stanford University` `AI Report`
 
