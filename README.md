@@ -49,4 +49,5 @@ Curated papers, articles, videos, books, podcast and blogs on research/applied m
 44. [16 More Startup Metrics - Andreessen Horowitz](https://a16z.com/2015/09/23/16-more-metrics/) `Measurement`
 45. [Machine Learning and Alternative Data Approach to Investing](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf) `Big Data` `JP Morgan`
 46. [Artificial Intelligence and life in 2030](https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai_100_report_0831fnl.pdf) `Stanford University` `AI Report`
+47. [NYU - Deep Learning Course by Yann LeCun](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&ab_channel=AlfredoCanziani) `New York University` `Yann LeCun`
 
